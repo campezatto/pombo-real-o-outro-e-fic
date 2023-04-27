@@ -1,0 +1,106 @@
+body{
+    background-image: url('https://uvn-brightspot.s3.amazonaws.com/assets/vixpt/g/goura-victoria-coroa-1120-1400x800.jpg');
+    background-repeat: no-repeat;
+    background-size:2400px 1000px ;    
+    }
+
+div.imagens {
+    text-align: center;
+    display:flex;
+    margin-left:10px ;
+}
+    
+img{
+    opacity: 0.9;
+}
+.titulos{
+padding-right: 200px;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.geral{
+text-align: center;
+position: relative;
+}
+
+#login{
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 15px;
+    padding-left:600px ;
+}
+
+.sobreposta{
+
+position: absolute;
+background-color: black;
+background-size: 1000px 500px;
+margin:100px ;
+width:1000px ;
+height:500px ;
+opacity:80% ;
+margin-left: 22%;
+display: flex;
+
+
+}
+
+
+#pombaGoura{
+
+
+margin: 25px;
+margin-top: 60px;
+opacity:100% ;
+}
+
+.botoes{
+
+display:flex;
+float: inline-start;
+margin-top: 49px;
+
+}
+
+ul{
+
+    list-style-type: none;
+    width: 450px;
+
+}
+
+li{
+
+    list-style-type: none;
+
+}
+
+button{
+
+    background-color: transparent;
+    color: white;   
+    border-color: white;
+    width: 400PX;
+    height: 50PX;
+    font-size: 40px;
+    margin-bottom: 30px;
+    animation-name: epilepsia;
+    animation-duration: 3s;
+    animation-iteration-count: infinite ;
+}   
+
+.cadastro{
+
+margin:20px ;
+
+
+}
+
+@keyframes epilepsia{
+
+0% {color: blueviolet;}
+15% {color: rgb(22, 219, 140);}
+30% {color: rgb(47, 202, 241);}
+100% {color: darkcyan;}
+}

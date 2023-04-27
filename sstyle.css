@@ -1,0 +1,86 @@
+.cadastro{
+
+font-family: 'Courier New', Courier, monospace;
+color: white;
+font-size: 28px;
+margin-left: 260px;
+padding-top: 25px;
+}
+
+
+
+body{
+    background-image:url('https://swall.teahub.io/photos/small/164-1644389_honor-8-color-blue.jpg');
+    background-repeat: no-repeat;
+    background-size:2400px 1000px ;    
+    
+}
+
+
+
+.filha1{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.filha2{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 30px;
+    margin-top: 70px;
+
+}
+
+.filha3{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.filha4{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+input{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: rgb(169, 197, 198);
+    border-color: white;
+    width: 500px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    
+}
+
+
+.termos{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+
+label{
+
+border-bottom: 10px;
+border-color: white;
+
+}
+
+
