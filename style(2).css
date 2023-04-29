@@ -1,5 +1,5 @@
 
-    body{
+    .grad{
     
         background-image:url('https://swall.teahub.io/photos/small/164-1644389_honor-8-color-blue.jpg');
         background-repeat: no-repeat;
@@ -23,70 +23,42 @@
         }
 
 
-    .botoes{
-
-        display:flex;
-        float: inline-start;
-        margin-top: 150px;
-        margin-right: auto;
-        }
-
-
-
-    .lalau{
-
-        font-family: 'Courier New', Courier, monospace;
-        text-align: center;
-        display:flex;
-        float: inline-start;
-        margin-top: 75px;
-        color: whitesmoke;
-        }
-
-
-    .log{
-
-
-        width: 400PX;
-        height: 50PX;
-        font-size: 40px;
-        margin-bottom: 30px;
-        font-family: 'Courier New', Courier, monospace;
-        border-radius: 15px;
-        }
-
-
-
     .cadastro{
 
         font-family: 'Courier New', Courier, monospace;
         color: white;
         font-size: 28px;
-        margin-left: 260px;
+        margin-left: 200px;
         padding-top: 25px;
+        margin-left: 880px;    
+    
+    }
+
+
+        .filha1{
+
+            font-family: 'Courier New', Courier, monospace;
+            color: white;
+            margin-top: 70px;
+            display: flex;
+            flex-direction: column;
+            margin-left: 680px;
+            z-index: 1000;
         }
-
-
-    .filha1{
-
-        font-family: 'Courier New', Courier, monospace;
+        
+.filha2{
+        
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     margin-top: 70px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 100px;
-    }
-    
-    .filha2{
-    
-        font-family: 'Courier New', Courier, monospace;
-        color: white;
-        margin-top: 70px;
-        margin-left: 10px;
-        }
-    
+    margin-left: 680px;
 
-    input{
+}
+        
+
+input{
 
         font-family: 'Courier New', Courier, monospace;
         color: white;
