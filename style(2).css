@@ -70,10 +70,12 @@
     .filha1{
 
         font-family: 'Courier New', Courier, monospace;
-        color: white;
-        margin-top: 70px;
-        margin-left: 10px;
-        }
+    color: white;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+    }
     
     .filha2{
     

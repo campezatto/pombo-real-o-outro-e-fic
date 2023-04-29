@@ -1,10 +1,10 @@
 .cadastro{
 
-font-family: 'Courier New', Courier, monospace;
-color: white;
-font-size: 28px;
-margin-left: 260px;
-padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 28px;
+    padding-top: 25px;
+
 }
 
 
@@ -22,40 +22,57 @@ body{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin-left: 30px;
     margin-top: 70px;
+    display: flex;
+    flex-direction: column;
 }
 
 .filha2{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin-left: 30px;
     margin-top: 70px;
-
+    display: flex;
+    flex-direction: column;
 }
 
 .filha3{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin-left: 30px;
     margin-top: 70px;
+    display: flex;
+    flex-direction: column;
 }
 
 .filha4{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    margin-left: 30px;
     margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
 }
 
 input{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    background-color: rgb(169, 197, 198);
+    background-color: rgb(2, 9, 27);
+    border-color: white;
+    width: 500px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    
+}
+.quadradinho{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: rgb(2, 9, 27);
     border-color: white;
     width: 500px;
     border-top: none;
@@ -65,21 +82,33 @@ input{
     
 }
 
+.oiduda{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 .termos{
 
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    font-size: 12px;
-    margin-left: 30px;
-    margin-top: 50px;
+    width: 500PX;
+}
+
+
+
+.amigoDuda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 
 label{
 
-border-bottom: 10px;
-border-color: white;
+    border-bottom: 10px;
+    border-color: white;
 
 }
 

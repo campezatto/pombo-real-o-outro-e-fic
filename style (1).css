@@ -24,11 +24,13 @@ text-align: center;
 position: relative;
 }
 
-#login{
+button.login{
     color: beige;
     font-family: 'Courier New', Courier, monospace;
     padding-right: 15px;
     padding-left:600px ;
+    background-color: transparent;
+    border-color: transparent;
 }
 
 .sobreposta{
@@ -76,7 +78,7 @@ li{
 
 }
 
-button{
+button.cadastr{
 
     background-color: transparent;
     color: white;   
