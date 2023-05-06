@@ -1,73 +1,115 @@
-
-    .grad{
+body{
     
-        background-image:url('https://swall.teahub.io/photos/small/164-1644389_honor-8-color-blue.jpg');
-        background-repeat: no-repeat;
-        background-size:2400px 1000px ;    
-        }
-
-
-
-
-    .login{
-
-        position: absolute;
-        background-color:rgb(2, 9, 27) ;
-        background-size: 1000px 500px;
-        margin:100px ;
-        width:700px ;
-        height:700px ;
-        opacity:80% ;
-        margin-left: 30%;
-        display: flex;
-        }
-
-
-    .cadastro{
-
-        font-family: 'Courier New', Courier, monospace;
-        color: white;
-        font-size: 28px;
-        margin-left: 200px;
-        padding-top: 25px;
-        margin-left: 880px;    
-    
+    background-image:url('https://swall.teahub.io/photos/small/164-1644389_honor-8-color-blue.jpg');
+    background-repeat: no-repeat;
+    background-size:2400px 1000px ;    
     }
 
 
-        .filha1{
 
-            font-family: 'Courier New', Courier, monospace;
-            color: white;
-            margin-top: 70px;
-            display: flex;
-            flex-direction: column;
-            margin-left: 680px;
-            z-index: 1000;
-        }
-        
-.filha2{
-        
+
+.login{
+
+    position: absolute;
+    background-color:rgb(2, 9, 27) ;
+    background-size: 1000px 500px;
+    margin:142px ;
+    width:700px ;
+    height:700px ;
+    opacity:80% ;
+    margin-left: 600px;
+    display: flex;
+    z-index:-10;
+    
+}
+
+
+.botoes{
+
+    display:flex;
+    float: inline-start;
+    margin-top: 150px;
+    margin-right: auto;
+    }
+
+
+
+.lalau{
+
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display:flex;
+    float: inline-start;
+    margin-top: 75px;
+    color: whitesmoke;
+    }
+
+
+.log{
+
+
+    width: 400PX;
+    height: 50PX;
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    }
+
+
+
+.cadastro{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 28px;
+    margin-left: 260px;
+    margin-top: 50px;
+    }
+
+
+.filha1{
+
     font-family: 'Courier New', Courier, monospace;
     color: white;
     margin-top: 70px;
+    margin-left: 60px;
     display: flex;
     flex-direction: column;
-    margin-left: 680px;
-
 }
-        
+
+.filha2{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-top: 70px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+}
+
 
 input{
 
-        font-family: 'Courier New', Courier, monospace;
-        color: white;
-        background-color: transparent;
-        border-color: white;
-        width: 500px;
-        border-top: none;
-        border-left: none;
-        border-right: none;
-        outline: none;
-        margin-top: 20px;
-        }
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    width: 500px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-top: 20px;
+    }
+
+
+.texto{
+
+    margin-left: 620px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 620px;
+    top: 115px;
+
+}

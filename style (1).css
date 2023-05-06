@@ -24,7 +24,7 @@ text-align: center;
 position: relative;
 }
 
-button.login{
+.login{
     color: beige;
     font-family: 'Courier New', Courier, monospace;
     padding-right: 15px;
