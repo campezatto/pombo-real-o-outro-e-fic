@@ -27,7 +27,7 @@
     color: beige;
     font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
-
+    margin-left: 20px;
 
 }
 
@@ -36,8 +36,9 @@
 
     color: beige;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 18.5px;
-
+    font-size: 17.8px;
+    margin-top: 0px;
+    margin-left: 10px;
 }
 
 
@@ -55,4 +56,48 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 18.5px;
 
+}
+
+.pru{
+
+    border-radius: 5px;
+
+    
+}
+
+.alinhamento{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.alinhamento2{
+
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    
+}
+
+.pru2{
+
+    border-radius: 5px;
+
+
+}
+
+.pru3{
+
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+
+.alinhamento3{
+
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    
 }
