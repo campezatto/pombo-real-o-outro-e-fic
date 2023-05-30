@@ -1,0 +1,103 @@
+.fundopombagoura {
+        width: 100%;
+        height: 100%;
+        background-image: linear-gradient( to right, rgb(23, 82, 129) , rgb(0, 0, 0));
+    
+    }
+
+.texto1{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+
+}
+
+.texto2{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+
+}
+
+
+.pomba{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+
+
+.texto3{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17.8px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+
+.texto4{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+
+}
+
+.texto5{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+
+}
+
+.pru{
+
+    border-radius: 5px;
+
+    
+}
+
+.alinhamento{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.alinhamento2{
+
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    
+}
+
+.pru2{
+
+    border-radius: 5px;
+
+
+}
+
+.pru3{
+
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+
+.alinhamento3{
+
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    
+}
