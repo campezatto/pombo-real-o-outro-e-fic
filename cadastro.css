@@ -7,16 +7,12 @@
 
 }
 
-
-
 body{
     background-image:url('https://swall.teahub.io/photos/small/164-1644389_honor-8-color-blue.jpg');
     background-repeat: no-repeat;
     background-size:2400px 1000px ;    
     
 }
-
-
 
 .filha1{
 
@@ -95,15 +91,12 @@ input{
     width: 500PX;
 }
 
-
-
 .amigoDuda{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-
 
 label{
 
