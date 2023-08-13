@@ -8,17 +8,18 @@
 .titulo{
 
     font-family: 'Courier New', Courier, monospace;
-    font-size: 35px;
+    font-size: 40px;
     color: aliceblue ;
-    
+    margin-top: 25px;
+    margin-left: 19px;
 }
 
 .texto{
 
     font-family: 'Courier New', Courier, monospace;
     color: aliceblue ;
-    font-size: 20.5px;
-    width: 60% ;
+    font-size: 30px;
+    width: 95% ;
     line-height: 45px;
 }
 
@@ -26,11 +27,99 @@
 
     font-family: 'Courier New', Courier, monospace;
     color: aliceblue ;
-    font-size: 25.5px;
-    width: 60% ;
+    font-size: 30px;
+    width: 90% ;
 }
 
 .justificar{
 
     text-align: justify;
+    
+}
+
+.img0{
+
+    margin-top: 10px;
+
+}
+
+.img1{
+
+    margin-right: 50px;
+    
+
+}
+
+.img3{
+
+    margin-right: 50px;
+
+}
+
+.img2{
+
+    margin-left: 10px;
+
+}
+
+
+.alinhamento{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.foot1{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.foot2{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 63px;
+    margin-top: 25px;
+}
+
+.foot3{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -136px;
+    margin-left: 800px;
+}
+
+.foot4{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 801px;
+    margin-top: 25px;
+}
+
+.foot5{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -136px;
+    margin-left: 1500px;
+}
+
+.foot6{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 1500px;
+    margin-top: 25px;
 }
