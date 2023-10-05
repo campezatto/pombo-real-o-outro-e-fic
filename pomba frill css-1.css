@@ -1,0 +1,151 @@
+body{
+
+display: block;
+}
+
+.display{
+
+display: flex;
+
+}
+
+
+.fundo{
+
+background-color: #BA9A7D;    
+
+}
+
+.alinhamento{
+
+text-align: justify;
+
+}
+
+.titulo{
+
+font-family: 'Courier New', Courier, monospace;
+color: white;
+font-size: 40px;
+margin-top: -70px;
+margin-left: 159px;
+margin-right: 25px;
+
+}
+
+.pomba3{
+
+margin-top: 269px;
+margin-right: 70px;
+margin-left: -401px;
+
+}
+
+.pomba2{
+
+margin-top: 181px;
+margin-right: 98px;
+
+}
+
+.pomba1{
+
+    margin-top: 446px;
+    margin-right: 94px;
+    margin-left: -347px;
+}
+
+.justify{
+
+text-align: justify;
+font-family: 'Courier New', Courier, monospace;
+color: aliceblue;
+
+}
+
+.texto1{
+
+font-size: 28px;
+margin-top: 180px;
+margin-left: -80px;
+margin-right: 25px;
+
+}
+
+.texto2{
+
+font-size: 28px;
+margin-left: -60px;
+
+}
+
+.texto3{
+
+font-size: 28px;
+margin-left: -900px;
+
+
+}
+
+.texto4{
+
+font-size: 28px;
+margin-left: -900px;
+
+
+}
+
+
+.foot1{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.foot2{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 63px;
+    margin-top: 25px;
+}
+
+.foot3{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -136px;
+    margin-left: 800px;
+}
+
+.foot4{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 801px;
+    margin-top: 25px;
+}
+
+.foot5{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-top: -136px;
+    margin-left: 1500px;
+}
+
+.foot6{
+
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18.5px;
+    margin-left: 1500px;
+    margin-top: 25px;
+}

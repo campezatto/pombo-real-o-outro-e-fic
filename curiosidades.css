@@ -1,0 +1,28 @@
+.fundo{
+
+    background-color: #93A9AB;
+    
+    }
+    
+    .titulo{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: white;
+    margin-top: -5px;
+    
+    }
+    
+    .texto{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+    
+    }
+    
+    .alinhamento{
+    
+    text-align: left;
+    
+    }
